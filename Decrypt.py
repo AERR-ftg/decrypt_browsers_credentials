@@ -129,7 +129,7 @@ def installed_browsers():
     return available
 
 
-if _name_ == '_main_':
+if __name__ == '__main__':
     available_browsers = installed_browsers()
 
     for browser in available_browsers:
