@@ -1,4 +1,4 @@
 pycryptodome
-pypiwin32
-crypto
+pywin32
 requests
+
